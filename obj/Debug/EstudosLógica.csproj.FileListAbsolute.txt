@@ -1,0 +1,8 @@
+C:\Users\jocel\source\repos\EstudosLógica\EstudosLógica\bin\Debug\EstudosLógica.exe.config
+C:\Users\jocel\source\repos\EstudosLógica\EstudosLógica\bin\Debug\EstudosLógica.exe
+C:\Users\jocel\source\repos\EstudosLógica\EstudosLógica\bin\Debug\EstudosLógica.pdb
+C:\Users\jocel\source\repos\EstudosLógica\EstudosLógica\obj\Debug\EstudosLógica.csproj.AssemblyReference.cache
+C:\Users\jocel\source\repos\EstudosLógica\EstudosLógica\obj\Debug\EstudosLógica.csproj.SuggestedBindingRedirects.cache
+C:\Users\jocel\source\repos\EstudosLógica\EstudosLógica\obj\Debug\EstudosLógica.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\EstudosLógica\EstudosLógica\obj\Debug\EstudosLógica.exe
+C:\Users\jocel\source\repos\EstudosLógica\EstudosLógica\obj\Debug\EstudosLógica.pdb
